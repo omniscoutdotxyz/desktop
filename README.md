@@ -8,7 +8,9 @@ You choose which agent to connect and when to let it act. Pause new actions when
 
 Get OmniScout and follow the guided setup at [omniscout.xyz/desktop](https://omniscout.xyz/desktop).
 
-OmniScout requires macOS 12 or later.
+OmniScout requires an Apple silicon Mac running macOS 12 or later.
+
+If macOS asks you to approve OmniScout the first time you open it, go to **System Settings → Privacy & Security**, choose **Open Anyway**, then confirm **Open**.
 
 ## What you can do
 

@@ -4,6 +4,10 @@
 
 OmniScout requires macOS 12 or later. Visit [omniscout.xyz/desktop](https://omniscout.xyz/desktop) to get the download and guided setup for your Mac.
 
+## Why does macOS ask before opening OmniScout?
+
+The direct-download version isn't notarized by Apple. After you try to open OmniScout, go to **System Settings → Privacy & Security**, choose **Open Anyway** for OmniScout, then confirm **Open**. Only approve a copy you downloaded from an OmniScout link you trust.
+
 ## Why does OmniScout ask for permissions?
 
 These permissions let OmniScout interact with your Mac and capture screenshots when your AI assistant asks it to. You can review or change them in **System Settings → Privacy & Security**.

@@ -6,7 +6,9 @@ Connect the AI assistant you already use to the browser and apps on your Mac. Le
 
 [Get OmniScout for Mac](https://omniscout.xyz/desktop)
 
-For macOS 12 or later.
+For Apple silicon Macs with macOS 12 or later.
+
+On first launch, macOS may ask you to approve OmniScout. Choose **Open Anyway** in **System Settings → Privacy & Security**, then confirm **Open**.
 
 ## Work across your apps
 
